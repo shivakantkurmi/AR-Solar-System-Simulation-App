@@ -46,7 +46,7 @@ Welcome to an out-of-this-world experience! 🚀 Dive into the cosmos with our *
 ## 🚀 How to Install
 
 ```bash
-git clone https://github.com/yourusername/AR-SolarSystem-Sim.git
+git clone https://github.com/shivakantkurmi/AR-Solar-System-Simulation-App.git
 ```
 
 1. Open in Unity 2023 or newer.
