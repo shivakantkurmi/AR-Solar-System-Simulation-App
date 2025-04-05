@@ -39,7 +39,7 @@ Welcome to an out-of-this-world experience! 🚀 Dive into the cosmos with our *
 
 > ❗ **Important Note:** Vuforia Engine is **not included** in this repository. To use this project, you must download and import Vuforia separately.
 >
-> 👈 [Download Vuforia Engine from Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/vuforia-engine-ar-120472)
+> 👈 [Download Vuforia Engine from Unity Asset Store](https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598)
 
 ---
 
